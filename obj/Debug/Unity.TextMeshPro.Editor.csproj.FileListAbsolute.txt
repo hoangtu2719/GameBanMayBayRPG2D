@@ -1,0 +1,2 @@
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\Unity.TextMeshPro.Editor.csprojAssemblyReference.cache
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\Unity.TextMeshPro.Editor.csproj.CoreCompileInputs.cache

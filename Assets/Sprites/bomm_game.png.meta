@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: 317e851512a2caa4d98661d4110138a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4911323102728325379
+    second: bomm_game_0
+  - first:
+      213: -2811223980952758622
+    second: bomm_game_1
+  - first:
+      213: -1575273233664846750
+    second: bomm_game_2
+  - first:
+      213: 1644569865216965482
+    second: bomm_game_3
+  - first:
+      213: -9221191310803028397
+    second: bomm_game_4
+  - first:
+      213: -8957848739423954190
+    second: bomm_game_5
+  - first:
+      213: 3554386514895452808
+    second: bomm_game_6
+  - first:
+      213: -8314969145822492103
+    second: bomm_game_7
+  - first:
+      213: -7562136472406532268
+    second: bomm_game_8
+  - first:
+      213: 6346224958212126059
+    second: bomm_game_9
+  - first:
+      213: 4533181994593109348
+    second: bomm_game_10
+  - first:
+      213: -6871292591741585615
+    second: bomm_game_11
+  - first:
+      213: 5690542716426362648
+    second: bomm_game_12
+  - first:
+      213: 5509795691121690280
+    second: bomm_game_13
+  - first:
+      213: 1364825736485680090
+    second: bomm_game_14
+  - first:
+      213: 2384859887075864322
+    second: bomm_game_15
+  - first:
+      213: 290634122931331205
+    second: bomm_game_16
+  - first:
+      213: -1917760019411133403
+    second: bomm_game_17
+  - first:
+      213: 559865236667414383
+    second: bomm_game_18
+  - first:
+      213: 2340479675968355758
+    second: bomm_game_19
+  - first:
+      213: 1262201772642433204
+    second: bomm_game_20
+  - first:
+      213: -3971902640604848089
+    second: bomm_game_21
+  - first:
+      213: -3486427210040462739
+    second: bomm_game_22
+  - first:
+      213: 6074552329870992876
+    second: bomm_game_23
+  - first:
+      213: -7783928312751709954
+    second: bomm_game_24
+  - first:
+      213: 8813580702266237541
+    second: bomm_game_25
+  - first:
+      213: 2027491431659641664
+    second: bomm_game_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomm_game_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 417
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3098a433756882440800000000000000
+      internalID: 4911323102728325379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 482
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6504f0fa68cf8d0800000000000000
+      internalID: -2811223980952758622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 394
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264d9331751832ae0800000000000000
+      internalID: -1575273233664846750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 390
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb190449fa2d610800000000000000
+      internalID: 1644569865216965482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 389
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356baa9db5fb70080800000000000000
+      internalID: -9221191310803028397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 468
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa54fe38045fa380800000000000000
+      internalID: -8957848739423954190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a38ce04b7b35130800000000000000
+      internalID: 3554386514895452808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 264
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acae0dd9b4b9c80800000000000000
+      internalID: -8314969145822492103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 371
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fde2bb1f4ed0790800000000000000
+      internalID: -7562136472406532268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 269
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b3fac9f1521850800000000000000
+      internalID: 6346224958212126059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 278
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654be9910919ee30800000000000000
+      internalID: 4533181994593109348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 344
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13738712bc344a0a0800000000000000
+      internalID: -6871292591741585615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 266
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f97c7637ed8fe40800000000000000
+      internalID: 5690542716426362648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6494a2df9b67c40800000000000000
+      internalID: 5509795691121690280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 268
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33a83b6c5d0f210800000000000000
+      internalID: 1364825736485680090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 270
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2c388e69b81120800000000000000
+      internalID: 2384859887075864322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 151
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ede8e13a880400800000000000000
+      internalID: 290634122931331205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9d8e4c6fb265e0800000000000000
+      internalID: -1917760019411133403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 206
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b6a9677a05c700800000000000000
+      internalID: 559865236667414383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 203
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead7d1a6ddd0b7020800000000000000
+      internalID: 2340479675968355758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8783523dd348110800000000000000
+      internalID: 1262201772642433204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ef48a797f0e8c0800000000000000
+      internalID: -3971902640604848089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 166
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d623842ace8bd9fc0800000000000000
+      internalID: -3486427210040462739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 167
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce56b7fd8252d4450800000000000000
+      internalID: 6074552329870992876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 152
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02459c07ee9f390800000000000000
+      internalID: -7783928312751709954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56221ddc3f0205a70800000000000000
+      internalID: 8813580702266237541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomm_game_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b983907b8132c10800000000000000
+      internalID: 2027491431659641664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

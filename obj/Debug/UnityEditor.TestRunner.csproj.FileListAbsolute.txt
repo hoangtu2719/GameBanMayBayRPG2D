@@ -1,0 +1,2 @@
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\UnityEditor.TestRunner.csprojAssemblyReference.cache
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\UnityEditor.TestRunner.csproj.CoreCompileInputs.cache

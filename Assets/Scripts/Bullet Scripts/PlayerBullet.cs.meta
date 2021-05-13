@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbc27afa8d1060d4d81f40c4e99b9e9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hieuung: {instanceID: 0}
+  - audioenemy: {instanceID: 0}
+  - amthanhtieudiet: {fileID: 8300000, guid: 305ee70f34024fa47ac03f783fcd93a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\UnityEngine.TestRunner.Player.csprojAssemblyReference.cache
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\UnityEngine.TestRunner.Player.csproj.CoreCompileInputs.cache
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\UnityEngine.TestRunner.dll
+D:\Unity\SPACE SHOOTER\SPACE SHOOTER\obj\Debug\UnityEngine.TestRunner.pdb
